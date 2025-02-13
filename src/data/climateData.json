@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "country": "India",
+        "indicator": "CO2 Emissions",
+        "year": 2022,
+        "value": 2.65
+    },
+    {
+        "id": 2,
+        "country": "USA",
+        "indicator": "CO2 Emissions",
+        "year": 2022,
+        "value": 15.52
+    }
+]
